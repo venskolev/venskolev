@@ -117,25 +117,25 @@
 ---
 
 
-### GitHub Awards
+## GitHub Awards
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=venskolev)
 
 
 
-### 📊 Github Stats
+## 📊 Github Stats
   <img alt="Vens Kolev Github Stats" src="https://github-readme-stats.vercel.app/api?username=venskolev&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
 
 
 
-### Language Stats
+## Language Stats
 <br><br>
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venskolev&theme=algolia&langs_count=15&layout=compact" />
 
 
 
 
-### 🔥 Streak stats
+## 🔥 Streak stats
 <br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venskolev&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
