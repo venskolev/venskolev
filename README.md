@@ -1,7 +1,7 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> I am Ventsislav (Vens) Kolev
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Junior+Full+Stack+Developer;Open-Source+Enthusiast;Social+Media+Influencer;Blogger;YouTuber;and+Photograph!;)](https://git.io/typing-svg)
 
-<img align="right" alt="PNG" src="./R.png" width="300" height="300" />
+<img align="right" alt="PNG" src="./R.png" width="200" height="300" />
 
 - 🔭 I’m currently student on  [DCI](https://digitalcareerinstitute.org/), [WebDev](https://alfatrex.com)
 - 🌱 I’m currently learning everything 🤣
