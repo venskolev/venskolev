@@ -22,7 +22,7 @@
 ---
 ### Frameworks
 
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a>
+<!-- <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a> -->
 <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Ionic-3880FF?&logo=ionic&logoColor=white" ></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"> </a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a>
@@ -41,8 +41,8 @@
 
 ### Hosting
 
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Amazon_AWS-232F3E?&logo=amazon-aws&logoColor=white"></a>
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Digital_Ocean-0080FF?&logo=DigitalOcean&logoColor=white"></a>
+<!-- <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Amazon_AWS-232F3E?&logo=amazon-aws&logoColor=white"></a> -->
+<!-- <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Digital_Ocean-0080FF?&logo=DigitalOcean&logoColor=white"></a> -->
 <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Netlify-00C7B7?&logo=netlify&logoColor=white"></a>
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white" ></a>
