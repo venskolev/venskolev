@@ -84,7 +84,7 @@
 
 ### Workspace
 
-<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/INTEL?&logo=intel&logoColor=white" ></a>
+<a href="#"><img alt="Intel" src="https://img.shields.io/badge/Intel-i7-blue" ></a>
 
 ---
 
