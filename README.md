@@ -117,24 +117,22 @@
 ---
 
 
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+## GitHub Awards
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=venskolev)
 
 
 
-<details>
-  <summary>📊 Github Stats</summary>
-<br><br>
+## 📊 Github Stats
   <img alt="Vens Kolev Github Stats" src="https://github-readme-stats.vercel.app/api?username=venskolev&count_private=true&show_icons=true&theme=algolia" style="height:214px;"/>
-</details>
 
-<details>
+
+
   <summary>&#11088 Language Stats</summary>
 <br><br>
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venskolev&theme=algolia&langs_count=15&layout=compact" />
 
-</details>
+
 
 
 <details>
