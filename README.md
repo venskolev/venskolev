@@ -128,21 +128,18 @@
 
 
 
-  <summary>&#11088 Language Stats</summary>
+  ## &#11088 Language Stats
 <br><br>
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venskolev&theme=algolia&langs_count=15&layout=compact" />
 
 
 
 
-<details>
-<summary>🔥 Streak stats</summary>
+## 🔥 Streak stats
 <br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=venskolev&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
-</details>
-<!-- markdownlint-enable MD033 -->
 
 ---
 
