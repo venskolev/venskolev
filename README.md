@@ -145,6 +145,6 @@
 
 ### Connect with me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ventsislav-kolev-955a4162/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ventsislav-kolev-955a4162)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCCxZzQ8BW7ybSaZz41AU7QA)
 [<img src="https://img.shields.io/badge/Website-4353FF?&logo=webflow&logoColor=white"/>](https://portfolio.alfatrex.com)
