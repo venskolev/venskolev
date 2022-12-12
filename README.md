@@ -3,10 +3,11 @@
 
 <img align="right" alt="PNG" src="./R.png" width="200" height="auto" />
 
-- 🔭 I’m currently student on  [DCI](https://digitalcareerinstitute.org/), [WebDev](https://alfatrex.com)
+- 🔭 I’m looking for a new job
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals 2022: Contribute more projects | completion project for DCI
+- 🥅 Goals 2023: new Project | Rechnungsprogramme software
+- 🥅 Goals 2022: Contribute more projects | completion project for DCI | DONE
 - ⚡ Fun fact: I love to hiking
 
 ### Languages 
