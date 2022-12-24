@@ -139,7 +139,7 @@
 ## 🔥 Streak stats
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=venskolev)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=venskolev&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 
 ---
