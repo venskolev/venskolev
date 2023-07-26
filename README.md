@@ -72,6 +72,7 @@
 ### OS
 
 <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/Linux-Fedora38-blue" alt="Fedora">
 
 ---
 
