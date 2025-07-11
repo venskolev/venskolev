@@ -8,8 +8,9 @@
 
 ### ⚙️ Projects in Motion
 
-- 🎵 **Aishar** – A futuristic platform for sharing AI-generated music *(Next.js + Capacitor + MUI Joy)*
-- - **AI-powered SaaS tools** and a few creative mobile-first experiences
+- 🎵 **[AiCeol](https://aiceol.com)** – A futuristic platform for sharing AI-generated music *(Next.js + Capacitor + MUI Joy)*  
+  &nbsp;&nbsp;&nbsp;&nbsp;_Previously known as **Aishar** – the project was renamed to better reflect its vision and global audience._
+-- 🤖 **AI-powered SaaS tools** and a few creative mobile-first experiences
 - 📸 **[PicsAwards.com](https://picsawards.com)** – A visual arts platform for photography competitions  
 - 🧠 **[infbg.com](https://infbg.com)** – Intelligent business platform for the Bulgarian market *(MERN stack + AI + QR + e-Invoice)*  
 - 🏥 **[inra.bg](https://inra.bg)** – Custom WordPress platform for natural healing and therapies  
